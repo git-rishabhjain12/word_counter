@@ -23,7 +23,6 @@ code {
 
 .gradient{
   height: 100vw;
-  width: 100vw;
   background: linear-gradient(-45deg, #CCE1F2, #C6F8E5, #FBF7D5, #F9DED7, #F5CDDE, #E2BEF1);
   background-size: 400% 400%;
   animation: gradient 10s ease infinite;
